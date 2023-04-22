@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parham Moonesi Sohi</h1>
 <h3 align="center">A computer engineering student from Iran.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pmoonesi" alt="pmoonesi" /></a> </p>
-
 - 🔭 I’m currently working on **a simple captcha solver**
 
 - 🌱 I’m currently learning **fundamental neuroscience for neuroimaging**
