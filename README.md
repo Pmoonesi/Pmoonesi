@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parham Moonesi Sohi</h1>
 <h3 align="center">A computer engineering student from Iran.</h3>
 
-- 🔭 I’m currently working on **a simple captcha solver**
+<!-- - 🔭 I’m currently working on **a simple captcha solver** -->
 
 - 🌱 I’m currently learning **fundamental neuroscience for neuroimaging**
 
