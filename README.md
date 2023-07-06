@@ -3,7 +3,9 @@
 
 <!-- - 🔭 I’m currently working on **a simple captcha solver** -->
 
-- 🌱 I’m currently learning **fundamental neuroscience for neuroimaging**
+<!-- - 🌱 I’m currently learning **fundamental neuroscience for neuroimaging** -->
+
+- 🌱 I’m am interested in **cyber security** and **the use of AI in medicine**
 
 - 👯 I’m looking to collaborate on **neuroimaging data analysis projects**
 
