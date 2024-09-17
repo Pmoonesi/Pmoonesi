@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parham Moonesi Sohi</h1>
-<h3 align="center">A computer engineering student from Iran.</h3>
+<h3 align="center">A computer engineering graduate from Iran.</h3>
 
 <!-- - 🔭 I’m currently working on **a simple captcha solver** -->
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **neuroimaging data analysis projects**
 
-- 💬 Ask me about **how Trent is a better midfielder than defender**
+<!-- - 💬 Ask me about **how Trent is a better midfielder than defender** -->
 
 - 📫 How to reach me **parham.moonesi@outlook.com**
 
